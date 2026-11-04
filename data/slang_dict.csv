@@ -1,0 +1,78 @@
+slang,нормализация,класс_частотность,тип
+кринж,"стыдно, неприятно, плохо",neg,polarity
+треш,"очень плохо, ужасно",neg,polarity
+шляпа,"плохо, некачественно", neg,polarity
+днище,"очень плохо, худший",neg,polarity
+развод,"обман, плохо",neg,polarity
+кидалово,"обман, плохо",neg,polarity
+фигня," плохо, некачественно",neg,polarity
+оверпрайс,"завышенная цена, переплата",neg,polarity
+подстава,"неприятность, плохо ",neg,polarity
+скам,"обман, плохо",neg,polarity
+жесть,"очень плохо, ужасно",neg,intensifier
+убого,"плохо, некачественно",neg,polarity
+отстой,плохо,neg,polarity
+бесит,"раздражает, плохо",neg,polarity
+хлам,"плохо, некачественно",neg,polarity
+позор,"стыдно, плохо",neg,polarity
+мрак,очень плохо,neg,polarity
+косяк,"ошибка, дефект",neg,polarity
+туфта,"плохо, некачественно",neg,polarity
+ни о чём,"бесполезно, плохо",neg,phrase
+обдираловка,"завышенная цена, обман",neg,polarity
+лажа,"неудача, плохо",neg,polarity
+ниже плинтуса,очень плохо,neg,phrase
+капец,очень плохо,neg,intensifier
+халтура,некачественная работа,neg,polarity
+позорище,"стыдно, плохо",neg,polarity
+стыдоба,"стыдно, плохо",neg,polarity
+беда,"проблема, плохо",neg,polarity
+уродливо,"плохо, некрасиво",neg,polarity
+дешёвка,"некачественно, дёшево",neg,polarity
+тормозит,"медленно, сбоит",neg,polarity
+надувательство,обман,neg,polarity
+хлип,"непрочное, плохо",neg,polarity
+жуть ,очень плохо,neg,intensifier
+норм ,"нормально, удовлетворительно",neutral,polarity
+пойдёт,"нормально, приемлемо",neutral,polarity
+средненько,"средне, удовлетворительно",neutral,polarity
+так себе,"средне, ничего особенного",neutral,phrase
+такое себе,"средне, ничего особенного",neutral,phrase
+жиза,"обычно, как у всех ",neutral,polarity
+сойдёт,"нормально, приемлемо",neutral,polarity
+без вау,"без восторга, средне",neutral,phrase
+без изюминки,"без особенностей, средне",neutral,phrase
+пушка," отлично, очень хорошо",pos,polarity
+имба,"отлично, лучший",pos,polarity
+огонь,"отлично, качественно",pos,polarity
+топчик,"отлично, хорошо",pos,polarity
+база,"надёжно, хорошо, стандарт",pos,polarity
+вайб,"впечатление, атмосфера",pos,polarity
+ужас-ужас,очень плохо,neg,intensifier
+ужас,очень плохо,neg,intensifier
+кошмар,очень плохо,neg,intensifier
+обидно,неприятно,neg,polarity
+никакое,"плохо, безразличное",neg,polarity
+скрипит,"дефект, плохо",neg,polarity
+шатается,"дефект, плохо",neg,polarity
+развалилось,"сломалось, плохо",neg,polarity
+заусенцы,дефект,neg,polarity
+брак,"дефект, плохо",neg ,polarity
+глюк,сбой,neg ,polarity
+глючит,сбой,neg ,polarity
+баг,ошибка,neg,polarity
+кастомный,индивидуальный,neutral,polarity
+конская,завышенная цена,neg,polarity
+топ,отлично,pos ,polarity
+класс,отлично,pos ,polarity
+супер,отлично,pos ,polarity
+шик,отлично,pos ,polarity
+бомба,отлично,pos ,polarity
+четко,хорошо,pos ,polarity
+чётко,хорошо,pos ,polarity
+улёт,отлично,pos ,polarity
+зашло,понравилось,pos ,polarity
+не зашло,не понравилось,neg,polarity
+жутко,"очень, сильно",neg,intensifier
+обман налицо,обман,neg,phrase
+обман на лицо,обман,neg,phrase

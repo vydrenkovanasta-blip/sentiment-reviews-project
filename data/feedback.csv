@@ -1,0 +1,5 @@
+text,label,model_prediction
+"Ужасное качество, всё сломалось через неделю, вернул деньги.",negative,positive
+"Полный кринж, а не товар.",negative,positive
+"Работает как надо, претензий нет.",neutral,positive
+все пришло разорванное,negative,positive
